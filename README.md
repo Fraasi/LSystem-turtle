@@ -1,0 +1,1 @@
+A **very** simplified version of [this](https://github.com/bencrowder/lsystem) L-System. May also be used to do simple [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics).
